@@ -182,7 +182,8 @@ Include screenshot of the generated data
 
 
 ### New Sample Data Prediction
-Include your sample input and output here
+
+##### Include your sample input and output here
 <img width="186" alt="Screenshot 2025-03-22 at 11 40 29 AM" src="https://github.com/user-attachments/assets/b84b61c1-b473-4d22-9c04-f8ee33a0ee76" />
 
 
