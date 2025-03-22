@@ -171,15 +171,14 @@ Include screenshot of the generated data
 <img width="695" alt="Screenshot 2025-03-22 at 11 39 58 AM" src="https://github.com/user-attachments/assets/6a9d9a07-def0-48fe-a313-b6a2d0940d38" />
 
 ### OUTPUT
-Training Loss Vs Iteration Plot
+##### Training Loss Vs Iteration Plot
 
 <img width="545" alt="Screenshot 2025-03-22 at 11 37 47 AM" src="https://github.com/user-attachments/assets/024c5b4a-08a0-4875-aa59-7a527cc214c6" />
 
-Best Fit line plot
+#### Best Fit line plot
 <img width="696" alt="Screenshot 2025-03-22 at 11 38 28 AM" src="https://github.com/user-attachments/assets/6cbf87c2-9a34-4854-92be-da887af305e3" />
 
 
-Include your plot here
 
 
 ### New Sample Data Prediction
